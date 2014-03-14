@@ -47,7 +47,7 @@ Content-Type: text/html
 					<div class="container">
 						<img class="logo" src="https://raw.github.com/Elektroshop/ws_fallback/master/sportona.de/img/logo.png" alt="Sportona.de">
 						<h1>Wartungsarbeiten</h1>
-						<p>Leider wird unsere Webseite momentan gewartet, bitte versuchen Sie es später nochmal!</p>
+						<p>Leider wird unsere Webseite momentan gewartet. Bitte versuchen Sie es später nochmal!</p>
 					</div>
 				</td>
 			</tr>
